@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T07:29:41.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="e21CEyWGSkDOw0w1xZ-n" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T07:31:21.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="c3WJ3VVSuiGG9C2kWH4g" version="13.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1113" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="yKmip7AhmHxL8dwArh6h-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yKmip7AhmHxL8dwArh6h-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="yKmip7AhmHxL8dwArh6h-4" target="yKmip7AhmHxL8dwArh6h-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yKmip7AhmHxL8dwArh6h-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="45.88" height="60" as="geometry" />
@@ -188,6 +191,12 @@
         </mxCell>
         <mxCell id="yKmip7AhmHxL8dwArh6h-84" value="Agen E" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="532.96" y="524" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yKmip7AhmHxL8dwArh6h-85" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.reporting;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="511.75" width="43.01" height="48.25" as="geometry" />
+        </mxCell>
+        <mxCell id="yKmip7AhmHxL8dwArh6h-87" value="WinBox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="570" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
